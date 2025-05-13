@@ -1,11 +1,11 @@
-package phase1_array;
+package two_pointer_250512;
 
 /**
  * @author: wangzhicheng
  * @createTime: 2025/05/13 15:46
  * @description:
  */
-public class 盛最多的谁的容器11 {
+public class 盛最多的谁的容器_第11题 {
     public static void main(String[] args) {
         int[] height = {1, 8, 6, 2, 5, 4, 8, 3, 7};
         int i = maxArea(height);
