@@ -1,3 +1,5 @@
+package hash_table.date20250516;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
